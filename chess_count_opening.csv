@@ -1,4 +1,4 @@
-Opening,White Wins,Black Wins,Draw,Number Of Games,Win rate,lost rate,draw rate
+Opening,White Wins,Black Wins,Draw,Number Of Games,Win rate,loss rate,draw rate
 Queen's Gambit Declined,64,34,120,218,29%,16%,55%
 Ruy Lopez,45,16,63,124,36%,13%,51%
 Sicilian Defense,13,10,48,71,14%,18%,68%
